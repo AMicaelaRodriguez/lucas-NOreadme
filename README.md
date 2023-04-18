@@ -1,2 +1,2 @@
-# lucas-readme
-Este es un repositorio readme de prep course henry
+Mi nombre es micaela rodriguez
+
